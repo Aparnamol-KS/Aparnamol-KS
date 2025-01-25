@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Hi+👋+I'm+Aparnamol+K+S;Passionate+AI+and+Machine+Learning+enthusiast;Passionate+Web+Developer)](https://git.io/typing-svg)
+
 # 💫 About Me:
 <br>A passionate AI and Machine Learning enthusiast, focused on creating innovative solutions through hands-on projects in Deep Learning, ML, and web development.<br>
 
