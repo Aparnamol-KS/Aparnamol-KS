@@ -72,7 +72,4 @@
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aparnamol-KS&theme=radical)
-
-
 
