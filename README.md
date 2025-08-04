@@ -14,52 +14,39 @@
 
 
 
-## 🌐 Connect With Me
+## Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aparnamol-ks/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/_aparnamol_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+<p> <a href="https://www.linkedin.com/in/aparnamol-ks/"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> </a> <a href="https://instagram.com/_aparnamol_"> <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /> </a> <a href="mailto:aparnamolks.off@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /> </a> </p>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 👩‍💻 Languages & Tools
+### Languages
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+
+<!--   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> -->
+
+  <p > <img src="https://skillicons.dev/icons?i=python,js,c,html,css" /> </p>
+
 
 ### ⚙️ Frameworks & Libraries
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-000000.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
-</p>
 
-### 🧰 Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+<p > <img src="https://skillicons.dev/icons?i=django,flask,bootstrap,react" /> </p>
+
+### Tools
+
+<p > <img src="https://skillicons.dev/icons?i=git,github,vercel,mysql,postgres" /> </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aparnamol-KS&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -72,7 +59,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aparnamol-KS&theme=radical&margin-w=10&no-frame=true" />
@@ -80,18 +67,21 @@
 
 ---
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aparnamol-KS&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
 
-## ✍️ Dev Quote
+## Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aparnamol-KS&theme=radical)
+
 
 
