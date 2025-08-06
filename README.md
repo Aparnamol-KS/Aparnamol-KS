@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=535&lines=Hi+👋+I'm+Aparnamol+K+S;Passionate+AI+and+Machine+Learning+enthusiast;Passionate+Web+Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&width=1000&lines=Hi+👋+I'm+Aparnamol+K+S;Passionate+AI+and+Machine+Learning+enthusiast;Passionate+Web+Developer
 )](https://git.io/typing-svg)
 
 ---
