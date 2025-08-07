@@ -49,16 +49,10 @@
 ---
 
 
-<h1 align="center">GitHub Achievements</h1>
-
+<h1 align="center">GitHub Trophies</h1>
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Aparnamol-KS&theme=dracula&no-bg=true&no-frame=true&margin-w=15&title=Followers,Repositories,Stars,Commits,PullRequest,Issues,Contributions" 
-    alt="GitHub Trophies" 
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aparnamol-KS&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
 </p>
-
-
 
 ---
 
