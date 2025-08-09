@@ -1,5 +1,9 @@
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&width=1000&lines=Hi+👋+I'm+Aparnamol+K+S;Passionate+AI+and+Machine+Learning+enthusiast;Passionate+Web+Developer
 )](https://git.io/typing-svg)
+
+
 
 ---
 
@@ -65,6 +69,17 @@
 
 ---
 
+<h1 align="center">Profile Summary</h1>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aparnamol-KS&theme=default" alt="Profile Summary" />
+</p>
+
+
+
+
+---
+
 <h1 align="center">Dev Quote</h1>
 
 <p align="center">
@@ -77,15 +92,11 @@
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/aparnamol-ks/"> 
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </a>
   <a href="https://instagram.com/_aparnamol_">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-  <a href="mailto:aparnamolks.off@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+   <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
   </a>
 </p>
-
 
 
