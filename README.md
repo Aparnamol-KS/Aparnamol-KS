@@ -3,9 +3,6 @@
 
 
 <h1 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150"></h1>
----
-
-
 
 
 <p align="center">
@@ -15,9 +12,9 @@
 </p>
 
 
----
 
-<h1 align="center">Tech Stack</h1>
+
+<h1 align="center" padding-top="20">Tech Stack</h1>
 
 
 <p align="center">
@@ -34,10 +31,10 @@
 </p>
 
 
----
 
 
-<h1 align="center">GitHub Stats</h1>
+
+<h1 align="center" >GitHub Stats</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aparnamol-KS&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -48,7 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aparnamol-KS&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
----
+
 
 
 <h1 align="center">GitHub Trophies</h1>
@@ -56,7 +53,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Aparnamol-KS&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
 </p>
 
----
+
 
 
 <h1 align="center">Top Contributed Repo</h1>
@@ -65,7 +62,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Aparnamol-KS&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Trophies" />
 </p>
 
----
 
 <h1 align="center">Profile Summary</h1>
 
@@ -76,7 +72,7 @@
 
 
 
----
+
 
 <h1 align="center">Dev Quote</h1>
 
@@ -84,7 +80,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
----
+
 
 <h1 align="center">Connect With Me</h1>
 
