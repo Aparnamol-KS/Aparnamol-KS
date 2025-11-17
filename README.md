@@ -5,11 +5,11 @@
 <h1 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150"></h1>
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Aparnamol-KS/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aparnamol-KS&bg_color=0d1117&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true" />
   </a>
-</p>
+</p> -->
 
 
 
